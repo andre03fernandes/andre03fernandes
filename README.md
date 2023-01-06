@@ -22,12 +22,11 @@ Here are some ideas to get you started:
 <div><hr></div>
 
 <!-- GitHub Stats and Most used languages --------------------------------------------------------------------------- -->
-<!--
+
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=andre03fernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre03fernandes&layout=compact&langs_count=7&theme=dark" />
 </div>
--->
 
 <!-- Profile contributions in last year ---------------------------------------------------- -->
 <div>
@@ -90,3 +89,9 @@ Here are some ideas to get you started:
   
 
 <div><hr></div>
+
+<div align="center">
+  <a href="https://github.com/andre03fernandes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre03fernandes&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+
+</div>
