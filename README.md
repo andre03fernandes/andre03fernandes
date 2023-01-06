@@ -80,7 +80,6 @@ Here are some ideas to get you started:
 <div><hr></div>
 
 
-<!-- Used IDE's --------------------------------------------------------------------------- -->
 <div>
     <p>
         <img style="height:30px; width:auto" title="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -91,11 +90,3 @@ Here are some ideas to get you started:
   
 
 <div><hr></div>
-  
-
-<!-- Profile hits counter ------------------------------------------------------------------ -->
-<!--
-<div>
-    <img style="height:25px; width:auto" title="Profile Hits counter" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{andre03fernandes}1212%2Fhit-counter" />
-</div>
--->
