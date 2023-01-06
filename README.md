@@ -21,12 +21,15 @@ Here are some ideas to get you started:
 
 <div><hr></div>
 
-<!-- GitHub Stats and Most used languages --------------------------------------------------------------------------- -->
+<!-- GitHub Stats --------------------------------------------------------------------------- -->
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=andre03fernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre03fernandes&layout=compact&langs_count=7&theme=dark" />
+<div align="center">
+  <a href="https://github.com/andre03fernandes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre03fernandes&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+
 </div>
+    
+<div><hr></div>
 
 <!-- Profile contributions in last year ---------------------------------------------------- -->
 <div>
@@ -44,9 +47,9 @@ Here are some ideas to get you started:
         </th>
     </table>
     <!-- Last month contributions --------------------------------------------------------- -->
-    <p>
+    <!--<p>
         <img style="width:100%" src="https://activity-graph.herokuapp.com/graph?username=andre03fernandes&theme=github" />
-    </p>
+    </p>-->
 </div>
 
 
@@ -84,14 +87,10 @@ Here are some ideas to get you started:
         <img style="height:30px; width:auto" title="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
         &emsp;
         <img style="height:30px; width:auto" title="Visual Studio 2022" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+        
+        <a href="https://www.linkedin.com/in/andr%C3%A9-fernandes-4b181a1a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </p>
 </div>
   
 
 <div><hr></div>
-
-<div align="center">
-  <a href="https://github.com/andre03fernandes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre03fernandes&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-
-</div>
