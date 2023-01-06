@@ -87,10 +87,13 @@ Here are some ideas to get you started:
         <img style="height:30px; width:auto" title="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
         &emsp;
         <img style="height:30px; width:auto" title="Visual Studio 2022" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-        
-        <a href="https://www.linkedin.com/in/andr%C3%A9-fernandes-4b181a1a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </p>
 </div>
   
 
 <div><hr></div>
+  
+  <div> 
+  <a href="https://www.linkedin.com/in/andr%C3%A9-fernandes-4b181a1a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
