@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning ASP .NET CORE
+- 🌱 Junior Full-Stack Developer
 
 <!-- Snake --------------------------------------------------------------------------- --> 
 ![Snake animation](https://github.com/andre03fernandes/andre03fernandes/blob/output/github-contribution-grid-snake.svg)
