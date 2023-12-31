@@ -1,4 +1,4 @@
-- 🌱 Junior Full-Stack Developer
+- 🌱 Software Developer
 
 <!-- Snake --------------------------------------------------------------------------- --> 
 ![Snake animation](https://github.com/andre03fernandes/andre03fernandes/blob/output/github-contribution-grid-snake.svg)
